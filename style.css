@@ -1,0 +1,38 @@
+.heading 
+{
+    width: 100%;
+    text-align: center;
+}
+
+.heading h3
+{
+   display: inline;
+}
+
+.heading button 
+{
+    float: right;
+    border: 1px solid white;
+}
+
+.big
+{
+    width: 100%;
+}
+
+#play, #status
+{
+    font-size: 22px;
+}
+
+#play
+{
+   margin-top: 10px;
+}
+
+#restart
+{
+    font-size: 18px;
+    float: left;
+    border: 1px solid white;
+}
